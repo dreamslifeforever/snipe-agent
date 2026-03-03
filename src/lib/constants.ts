@@ -5,7 +5,7 @@ export const PROJECT = {
   wallet: 'B3BbCpoCgtRTGmneMoS2HXsw9SrpQzcD2ZjmqXgZ48ja',
   treasury: 'meF3nuZG2mHDRstya6aPKZ9gzyD1Eo6edtH6p9PcDc4',
   multisig: '3uTGVZxcVKCn6cFMW9vFykbnUQ1UwCt86noaBvyQhRnQ',
-  twitter: 'https://x.com/snaboratory',
+  twitter: 'https://x.com/snipeagentfun',
 };
 
 export const HELIUS = 'https://mainnet.helius-rpc.com/?api-key=e30ea48e-bf93-4f7f-9e54-68ae7300fcc5';
